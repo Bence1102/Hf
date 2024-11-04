@@ -1,6 +1,5 @@
 import feladatok
-import random
-import math
+
 
 
 szamkiiras=feladatok.szamkiiras()
