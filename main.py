@@ -27,3 +27,6 @@ print("Átlag:", atlag)
 
 max=feladatok.fel6_6(randomsz)
 print("A legnagyobb szám: ", max)
+
+osszead=feladatok.szamokosszead()
+print(osszead)
