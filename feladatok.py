@@ -68,3 +68,8 @@ def fel6_6(szamok):
         if rszam>max:
             max=rszam
     return max
+
+
+def szamokosszead(szam1=5,szam2=3,szam3=10):
+    eredmeny = szam1 + szam2 + szam3
+    print(eredmeny)
